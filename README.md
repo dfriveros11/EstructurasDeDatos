@@ -1,3 +1,3 @@
-# EstructurasDeDatos
+# Data Structure
 
-Proyecto en donde se recreo los diferentes tipos de estructuras de datos. 
+Implemention of different data structures
